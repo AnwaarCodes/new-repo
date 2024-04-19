@@ -1,0 +1,23 @@
+/* @media (min-width: 480px) {
+    .nav-part2 h4, h5{
+        display: none;
+    }
+} */
+
+
+@media (max-width: 480px){
+    .ri-menu-add-line{
+        display: block;
+       
+    }
+    nav h1{
+        font-size: 30px;
+    }
+    .nav-elem{
+        display: none;
+    }
+    nav button{
+        display: none;
+    }
+
+}
